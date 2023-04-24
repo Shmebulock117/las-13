@@ -74,6 +74,10 @@ background: linear-gradient(90deg, rgba(137,24,213,1) 0%, rgba(221,23,23,1) 50%,
 .ejemplo19{
     align-items: baseline;
 }
+.ejemplo20{
+    align-items: center;
+    justify-content: center;
+}
 .caja{
     width: 100px;
     height: 100px;
